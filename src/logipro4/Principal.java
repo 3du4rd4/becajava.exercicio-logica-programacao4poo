@@ -12,7 +12,7 @@ public class Principal {
 
 		e.Valores();
 		
-		System.out.println(""+ e.getA());
+		
 	}
 
 }
